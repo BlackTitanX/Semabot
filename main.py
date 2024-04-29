@@ -131,6 +131,7 @@ def guardar_imagen(imagen,name):
         
     print("Archivo descargado correctamente.")
 
-
+def sayHello():
+    print("hello")
 
 client.run(TOKEN)
